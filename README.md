@@ -42,6 +42,8 @@ python CLI_Main.py
 python UserInterface_Main.py
 ```
 
+---
+
 ## 🏗️ هيكلية المشروع (Architecture)
 تم بناء المشروع بهيكلية برمجية منظمة (Modular Architecture):
 * **[logic.py](logic.py)** "قلب المحرك" المسؤول عن عمليات الفتح، الضغط، والتحويل الفعلي.
@@ -49,7 +51,9 @@ python UserInterface_Main.py
 * **[UserInterface_Main.py](UserInterface_Main.py)** الكود المسؤول عن بناء وتنسيق الواجهة الرسومية باستخدام CustomTkinter.
 * **[CLI_Main.py](CLI_Main.py)** منطق التشغيل عبر الطرفية (Terminal) مع إدارة تدفق العمليات.
 
+---
 ## ⚙️ تفاصيل تقنية (Technical Specs)
 تستخدم الأداة مكتبة Pillow كعصب أساسي لمعالجة البكسلات، مع دمج الملحق البرمجي pillow-avif-plugin لتمكين دعم صيغة AVIF. تم ضبط جودة الضغط الافتراضية عند 85% لضمان الحصول على أصغر حجم ممكن دون التأثير الملحوظ على دقة الصورة.
-
+---
 تم التطوير بواسطة: رازي سلطان 🚀
+---

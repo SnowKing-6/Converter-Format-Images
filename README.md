@@ -46,10 +46,10 @@ python UserInterface_Main.py
 
 ## 🏗️ هيكلية المشروع (Architecture)
 تم بناء المشروع بهيكلية برمجية منظمة (Modular Architecture):
-* **[logic.py](logic.py)** "قلب المحرك" المسؤول عن عمليات الفتح، الضغط، والتحويل الفعلي.
-* **[image_helper.py](image_helper.py)** أدوات مساعدة للتعامل مع نظام الملفات ونوافذ الاختيار التفاعلية.
-* **[UserInterface_Main.py](UserInterface_Main.py)** الكود المسؤول عن بناء وتنسيق الواجهة الرسومية باستخدام CustomTkinter.
-* **[CLI_Main.py](CLI_Main.py)** منطق التشغيل عبر الطرفية (Terminal) مع إدارة تدفق العمليات.
+* **[logic.py](source-code/logic.py)** "قلب المحرك" المسؤول عن عمليات الفتح، الضغط، والتحويل الفعلي.
+* **[image_helper.py](source-code/image_helper.py)** أدوات مساعدة للتعامل مع نظام الملفات ونوافذ الاختيار التفاعلية.
+* **[UserInterface_Main.py](source-code/UserInterface_Main.py)** الكود المسؤول عن بناء وتنسيق الواجهة الرسومية باستخدام CustomTkinter.
+* **[CLI_Main.py](source-code/CLI_Main.py)** منطق التشغيل عبر الطرفية (Terminal) مع إدارة تدفق العمليات.
 
 ---
 ## ⚙️ تفاصيل تقنية (Technical Specs)

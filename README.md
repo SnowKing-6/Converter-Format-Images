@@ -1,4 +1,4 @@
-# 📸 Razi Converter v1.0
+# 📸 Image-Converter `v1.0`
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![UI](https://img.shields.io/badge/UI-CustomTkinter-orange)

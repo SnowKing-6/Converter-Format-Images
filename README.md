@@ -2,12 +2,14 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![UI](https://img.shields.io/badge/UI-CustomTkinter-orange)
-[![Download v1.0](https://img.shields.io/badge/Download-v1.0-blue?style=for-the-badge&logo=github)](sha256:e1e855e2021a57f298aa7435bebcc76768f0a8dbcaaea5882fb31f7209347a62)
 
 أداة برمجية متكاملة واحترافية لتحويل صيغ الصور، تم تطويرها لتقديم أداء عالٍ في المعالجة الفردية والجماعية (Bulk Processing). تجمع الأداة بين واجهة رسومية عصرية (GUI) وقوة سطر الأوامر (CLI) لتناسب جميع احتياجات المستخدمين والمبرمجين.
 
 ---
+## لتحميل الاداة بصيغة EXE مباشرة أنقر على الزر ادناه:
+[![Download v1.0](https://img.shields.io/badge/Download-v1.0-blue?style=for-the-badge&logo=github)](sha256:e1e855e2021a57f298aa7435bebcc76768f0a8dbcaaea5882fb31f7209347a62)
 
+---
 ## ✨ المميزات الرئيسية
 
 * **الوضع المزدوج (Dual Mode):**

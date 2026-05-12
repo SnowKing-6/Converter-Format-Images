@@ -7,7 +7,7 @@
 
 ---
 ## لتحميل الاداة بصيغة EXE مباشرة أنقر على الزر ادناه:
-[![Download v1.0](https://img.shields.io/badge/Download-v1.0-blue?style=for-the-badge&logo=github)](https://github.com/SnowKing-6/Image-Converter/releases/download/v1.0/UserInterface_Main.exe)
+[![Download v1.0](https://img.shields.io/badge/Download-v1.0-blue?style=for-the-badge&logo=github)]([https://github.com/SnowKing-6/Image-Converter/releases/download/v1.0/UserInterface_Main.exe](https://github.com/SnowKing-6/Image-Converter/releases/download/v1.0/Image-Converter-v1.0.exe))
 
 ---
 ## ✨ المميزات الرئيسية

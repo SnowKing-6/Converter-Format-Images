@@ -3,7 +3,7 @@ import threading
 import customtkinter as ctk
 from tkinter import messagebox
 
-# استيراد الوظائف الخاصة بمشروعك
+# استيراد الوظائف الخاصة بالمشروع
 from image_helper import get_image_path, get_input_folder, get_output_folder
 from logic import process_conversion
 
